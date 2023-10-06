@@ -70,7 +70,7 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 import VectorSource from 'https://cdn.skypack.dev/ol/source/Vector.js';
-import {Vector as VectorLayer} from 'https://cdn.skypack.dev/ol/layer.js';
+import { Vector as VectorLayer } from 'https://cdn.skypack.dev/ol/layer.js';
 import GeoJSON from 'https://cdn.skypack.dev/ol/format/GeoJSON.js';
 
 // Definisikan URL GeoJSON untuk masing-masing jenis fitur
