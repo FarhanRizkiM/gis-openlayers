@@ -1,0 +1,704 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+            "type": "Feature",
+            "properties": {
+                "name": "Cibinong City Mall"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.84221779677222,
+                    -6.484133450448681
+                ],
+                "type": "Point"
+            },
+            "id": 0
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RSUD Cibinong"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.83165780963839,
+                    -6.4737440161616036
+                ],
+                "type": "Point"
+            },
+            "id": 1
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stadion Mini Persikabo"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.82523088801918,
+                    -6.476722204156317
+                ],
+                "type": "Point"
+            },
+            "id": 2
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kantor DPD Golkar"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.83767535154254,
+                    -6.4844685488837115
+                ],
+                "type": "Point"
+            },
+            "id": 10
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dinas Komunikasi dan Informasi Kabupaten Bogor"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.8381783906836,
+                    -6.485953728953618
+                ],
+                "type": "Point"
+            },
+            "id": 11
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pengadilan Negeri Cibinong"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.8359506459127,
+                    -6.484054411354393
+                ],
+                "type": "Point"
+            },
+            "id": 12
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bappenda Kabupaten Bogor"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.83518890092569,
+                    -6.485196858887633
+                ],
+                "type": "Point"
+            },
+            "id": 13
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BPJS Kesehatan"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.83435529320519,
+                    -6.483383222220155
+                ],
+                "type": "Point"
+            },
+            "id": 14
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kantor BPN"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.83405346971989,
+                    -6.484739880185629
+                ],
+                "type": "Point"
+            },
+            "id": 15
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kantor Dinas Kesehatan"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.83247248955877,
+                    -6.482554945036739
+                ],
+                "type": "Point"
+            },
+            "id": 16
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kantor Telkom"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.8317394896676,
+                    -6.4835260284931735
+                ],
+                "type": "Point"
+            },
+            "id": 17
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bank Jabar Banten"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.82702345563985,
+                    -6.481716995276869
+                ],
+                "type": "Point"
+            },
+            "id": 11
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rumah Dinas Wakil Bupati Kabupaten Bogor"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.82758398828469,
+                    -6.4807030646882
+                ],
+                "type": "Point"
+            },
+            "id": 17
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kantor DPRD Kabupaten Bogor"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.82607487086011,
+                    -6.4797462565265675
+                ],
+                "type": "Point"
+            },
+            "id": 18
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lapangan Tegar Beriman"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.82472385144911,
+                    -6.480403169788332
+                ],
+                "type": "Point"
+            },
+            "id": 19
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kantor Bupati Kabupaten Bogor"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.82481008673062,
+                    -6.47830390049748
+                ],
+                "type": "Point"
+            },
+            "id": 20
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Taman Tegar Beriman"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.82358842024331,
+                    -6.479474922539254
+                ],
+                "type": "Point"
+            },
+            "id": 21
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Polres Kabupaten Bogor"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.82527000823234,
+                    -6.482173975185731
+                ],
+                "type": "Point"
+            },
+            "id": 22
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kantor Baznas Kab. Bogor"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.82255739732221,
+                    -6.480308999273078
+                ],
+                "type": "Point"
+            },
+            "id": 23
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kodim Kabupaten Bogor"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.82394771104634,
+                    -6.482038133924675
+                ],
+                "type": "Point"
+            },
+            "id": 24
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SMP Negeri 2 Cibinong"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.8187763620694,
+                    -6.479179111636256
+                ],
+                "type": "Point"
+            },
+            "id": 20
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PDAM Kabupaten Bogor"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.81713459729087,
+                    -6.481957922297994
+                ],
+                "type": "Point"
+            },
+            "id": 21
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SD Negeri 01 Cipayung"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.8306972784178,
+                    -6.47628133928626
+                ],
+                "type": "Point"
+            },
+            "id": 22
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Apotek Cipayung Farma"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.8301885793773,
+                    -6.473619337944655
+                ],
+                "type": "Point"
+            },
+            "id": 23
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mall Cibinong Square"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.84390323051883,
+                    -6.4793507042734575
+                ],
+                "type": "Point"
+            },
+            "id": 34
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dinas Tata Bangunan dan Pemukiman Kabupaten Bogor"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.83126773600003,
+                    -6.481831418129531
+                ],
+                "type": "Point"
+            },
+            "id": 35
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kantor Perkantoran PU Kabupaten Bogor"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.83109470205017,
+                    -6.4813048887696
+                ],
+                "type": "Point"
+            },
+            "id": 36
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kantor Pos dan Giro"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.83212147962854,
+                    -6.483573203866371
+                ],
+                "type": "Point"
+            },
+            "id": 37
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "KNPI"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.83644838613543,
+                    -6.484325297390939
+                ],
+                "type": "Point"
+            },
+            "id": 38
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Masjid Al Ittihad"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.83716576440594,
+                    -6.484624414136221
+                ],
+                "type": "Point"
+            },
+            "id": 39
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dinas Energi dan Sumber Daya Mineral"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.83731598103657,
+                    -6.485765599094506
+                ],
+                "type": "Point"
+            },
+            "id": 40
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dinas Pemadam Kebakaran Kabupaten Bogor"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.83684520030931,
+                    -6.485369040002979
+                ],
+                "type": "Point"
+            },
+            "id": 41
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Badan Penanggulangan Bencana Daerah Kabupaten Bogor"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.83824903998664,
+                    -6.484763091541481
+                ],
+                "type": "Point"
+            },
+            "id": 42
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kantor PBB Pratama"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.82648807378092,
+                    -6.474900322902926
+                ],
+                "type": "Point"
+            },
+            "id": 33
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kantor Perhutani"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.8262328940994,
+                    -6.47560953066052
+                ],
+                "type": "Point"
+            },
+            "id": 34
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dinas Pendidikan Kabupaten Bogor"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.82613943226227,
+                    -6.476120290907872
+                ],
+                "type": "Point"
+            },
+            "id": 35
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISBUDPAR"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.82660154912566,
+                    -6.476213156351847
+                ],
+                "type": "Point"
+            },
+            "id": 36
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "KLPBJ Kabupaten Bogor"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.82592987322988,
+                    -6.476908615007986
+                ],
+                "type": "Point"
+            },
+            "id": 37
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Badan Kesatuan Bangsa dan Politik Kabupaten Bogor"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.82739459388137,
+                    -6.4760237280742246
+                ],
+                "type": "Point"
+            },
+            "id": 38
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kantor Bappeda"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.82738546178132,
+                    -6.476389408526543
+                ],
+                "type": "Point"
+            },
+            "id": 39
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kantor DISUMKM"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.82528871947216,
+                    -6.475543464527988
+                ],
+                "type": "Point"
+            },
+            "id": 40
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kantor Pratama Cibinong"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.82466604359183,
+                    -6.475345145883978
+                ],
+                "type": "Point"
+            },
+            "id": 41
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DINSOS"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.82431751015207,
+                    -6.475261729993434
+                ],
+                "type": "Point"
+            },
+            "id": 42
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kantor Aset"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.82448870869706,
+                    -6.476048540768744
+                ],
+                "type": "Point"
+            },
+            "id": 43
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dinas Pertanian dan Kehutanan"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.82401609032416,
+                    -6.476596158098403
+                ],
+                "type": "Point"
+            },
+            "id": 44
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dinas Koperindag dan UKM"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.82428586105817,
+                    -6.477236459374012
+                ],
+                "type": "Point"
+            },
+            "id": 45
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gedung Korpri"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.82393324849636,
+                    -6.477742745308845
+                ],
+                "type": "Point"
+            },
+            "id": 46
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Inspektorat"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.82359816871684,
+                    -6.478557329558356
+                ],
+                "type": "Point"
+            },
+            "id": 47
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sekretariat Daerah"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.824760568692,
+                    -6.479311086488266
+                ],
+                "type": "Point"
+            },
+            "id": 48
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Masjid Baitul Faizin"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.82335984794406,
+                    -6.480295636341111
+                ],
+                "type": "Point"
+            },
+            "id": 49
+        }
+    ]
+}
