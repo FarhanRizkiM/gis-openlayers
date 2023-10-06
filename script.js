@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
     const pointTable = document.getElementById("pointTable").getElementsByTagName('tbody')[0];
 
-    fetch("waypoint.json") // Ganti "data.json" dengan nama file JSON Anda
+    fetch("https://raw.githubusercontent.com/FarhanRizkiM/gis-openlayers/main/waypoint.json") // Ganti "data.json" dengan nama file JSON Anda
         .then(response => response.json())
         .then(data => {
             data.features.forEach(feature => {
@@ -23,7 +23,7 @@ document.addEventListener("DOMContentLoaded", () => {
 document.addEventListener("DOMContentLoaded", () => {
     const pointTable = document.getElementById("polygonTable").getElementsByTagName('tbody')[0];
 
-    fetch("polygon.json") // Ganti "data.json" dengan nama file JSON Anda
+    fetch("https://raw.githubusercontent.com/FarhanRizkiM/gis-openlayers/main/polygon.json") // Ganti "data.json" dengan nama file JSON Anda
         .then(response => response.json())
         .then(data => {
             data.features.forEach(feature => {
@@ -45,7 +45,7 @@ document.addEventListener("DOMContentLoaded", () => {
 document.addEventListener("DOMContentLoaded", () => {
     const pointTable = document.getElementById("polylineTable").getElementsByTagName('tbody')[0];
 
-    fetch("polyline.json") // Ganti "data.json" dengan nama file JSON Anda
+    fetch("https://raw.githubusercontent.com/FarhanRizkiM/gis-openlayers/main/polyline.json") // Ganti "data.json" dengan nama file JSON Anda
         .then(response => response.json())
         .then(data => {
             data.features.forEach(feature => {
@@ -84,12 +84,12 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     const lineStringSource = new ol.source.Vector({
-        url: 'https://raw.githubusercontent.com/FarhanRizkiM/gis-openlayers/main/polygon.json',
+        url: 'https://raw.githubusercontent.com/FarhanRizkiM/gis-openlayers/main/polyline.json',
         format: new ol.format.GeoJSON()
     });
 
     const polylineSource = new ol.source.Vector({
-        url: 'https://raw.githubusercontent.com/FarhanRizkiM/gis-openlayers/main/polyline.json',
+        url: 'https://raw.githubusercontent.com/FarhanRizkiM/gis-openlayers/main/polygon.json',
         format: new ol.format.GeoJSON()
     });
 
@@ -121,7 +121,7 @@ document.addEventListener('DOMContentLoaded', () => {
         style: new ol.style.Style({
             stroke: new ol.style.Stroke({
                 color: 'black',
-                width: 5
+                width: 2
 
             })
         })
