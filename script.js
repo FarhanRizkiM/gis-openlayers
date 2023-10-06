@@ -72,24 +72,24 @@ document.addEventListener('DOMContentLoaded', () => {
             })
         ],
         view: new ol.View({
-            center: ol.proj.fromLonLat([107.60701584098513, -6.914777351366908]),
-            zoom: 15.5
+            center: ol.proj.fromLonLat([106.83303856987703, -6.479261060743909]),
+            zoom: 15.3
         })
     });
 
     // Mendownload data waypoint, line string, dan polyline
     const waypointSource = new ol.source.Vector({
-        url: 'https://raw.githubusercontent.com/AkbarHasballah/OpenLY/main/waypoint.json',
+        url: 'https://raw.githubusercontent.com/FarhanRizkiM/gis-openlayers/main/waypoint.json',
         format: new ol.format.GeoJSON()
     });
 
     const lineStringSource = new ol.source.Vector({
-        url: 'https://raw.githubusercontent.com/AkbarHasballah/OpenLY/main/polygon.json',
+        url: 'https://raw.githubusercontent.com/FarhanRizkiM/gis-openlayers/main/polygon.json',
         format: new ol.format.GeoJSON()
     });
 
     const polylineSource = new ol.source.Vector({
-        url: 'https://raw.githubusercontent.com/AkbarHasballah/OpenLY/main/polyline.json',
+        url: 'https://raw.githubusercontent.com/FarhanRizkiM/gis-openlayers/main/polyline.json',
         format: new ol.format.GeoJSON()
     });
 
