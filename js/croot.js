@@ -198,9 +198,9 @@ import {
 import GeoJSON from 'https://cdn.skypack.dev/ol/format/GeoJSON.js';
 
 // Definisikan URL GeoJSON untuk masing-masing jenis fitur
-const polygonGeoJSONUrl = 'polygon.json';
-const lineStringGeoJSONUrl = 'polyline.json';
-const pointGeoJSONUrl = 'waypoint.json';
+const polygonGeoJSONUrl = 'https://raw.githubusercontent.com/FarhanRizkiM/gis-openlayers/main/polygon.json';
+const lineStringGeoJSONUrl = 'https://raw.githubusercontent.com/FarhanRizkiM/gis-openlayers/main/polyline.json';
+const pointGeoJSONUrl = 'https://raw.githubusercontent.com/FarhanRizkiM/gis-openlayers/main/waypoint.json';
 
 // Buat sumber vektor dan lapisan vektor untuk masing-masing jenis fitur
 const polygonSource = new VectorSource({
